@@ -14,6 +14,7 @@ map <A-Enter> <Esc>:call ToggleFullScreen()<CR>
 */
 
 #include <windows.h>
+#include <stdio.h>
 
 #ifndef LWA_ALPHA
 #define LWA_ALPHA 2
